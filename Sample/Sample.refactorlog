@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="30a4d1ab-9e77-422e-83b3-a4ce060ea044" ChangeDateTime="03/04/2021 11:37:30">
+    <Property Name="ElementName" Value="[dbo].[Duunari].[EmailAddress]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Duunari]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Salary" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="b4ea62bd-98d3-45fe-93ae-c1be824601a0" ChangeDateTime="03/05/2021 09:07:01">
+    <Property Name="ElementName" Value="[dbo].[Duunari].[Salary]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Duunari]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Hours" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="1f15ec72-c239-4056-9234-97e7a233b5ea" ChangeDateTime="03/05/2021 09:07:56">
+    <Property Name="ElementName" Value="[dbo].[Duunari].[Hours]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Duunari]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Salary" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="37561397-6c6d-4e80-bb05-d05f32384f40" ChangeDateTime="03/05/2021 10:02:00">
+    <Property Name="ElementName" Value="[dbo].[Duunari].[FirstName]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Duunari]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="EtuNimi" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="9ae2e9fa-6566-4692-a276-368ad9fe9a9d" ChangeDateTime="03/05/2021 10:02:04">
+    <Property Name="ElementName" Value="[dbo].[Duunari].[LastName]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Duunari]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="SukuNimi" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="35cbffa6-135c-47dd-b63a-3e671b97d9e7" ChangeDateTime="03/05/2021 10:02:07">
+    <Property Name="ElementName" Value="[dbo].[Duunari].[Salary]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Duunari]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Palkka" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="927bdce9-0278-40b1-abff-d7dad0eeeef7" ChangeDateTime="03/05/2021 10:02:14">
+    <Property Name="ElementName" Value="[dbo].[Duunari].[WorkHours]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Duunari]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="TyoTunnit" />
+  </Operation>
+</Operations>
